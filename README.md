@@ -24,7 +24,7 @@ Here are some of the tools and technologies I work with:
 
 ### Other Tools
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 - ![API](https://img.shields.io/badge/-RESTful%20API-00A5CF?style=flat&logo=swagger&logoColor=white)
 
 
